@@ -30,31 +30,31 @@ Leadership and management skills are essential for nurse leaders overseeing staf
 ## Results
 
 ### Participants
-![Age distribution](images/age_distribution.png)
+![Age distribution](age_distribution.png)
 
-![Experience distribution](images/experience_distribution.png)
+![Experience distribution](experience_distribution.png)
 
 - Mean age 37.9 years (SD 4.6, range 30-51); mean experience 16.3 years (SD 4.6, range 9-27).
 
-![Gender](images/gender_pie.png) ![Nationality](images/nationality_pie.png)
+![Gender](gender_pie.png) ![Nationality](images/nationality_pie.png)
 
 - 90% female, 10% male; 88% Omani, 12% non-Omani.
 
-![Designation](images/designation.png)
+![Designation](designation.png)
 
 - Nurse-in-charge (48%) and senior staff nurse (40%) were the most common designations; head of nursing/supervisor (13%).
 
-![Prior training](images/prior_training.png)
+![Prior training](prior_training.png)
 
 - 67% had never attended leadership/management training before the program.
 
-![Self-rated knowledge pre](images/self_rated_knowledge_pre.png)
+![Self-rated knowledge pre](self_rated_knowledge_pre.png)
 
 - Before the program, self-rated knowledge was mostly "Very good" (40%) or "Good" (33%).
 
 ### Competency: pre vs post
 
-![Pre vs post mean by factor](images/pre_post_mean_by_factor.png)
+![Pre vs post mean by factor](pre_post_mean_by_factor.png)
 
 Mean competency score (1 = Novice, 3 = Expert) increased in every factor after the program:
 
@@ -68,12 +68,12 @@ Mean competency score (1 = Novice, 3 = Expert) increased in every factor after t
 | Communication | 2.22 | 2.57 | -3.72 | <0.001 |
 | **Overall** | **2.03** | **2.40** | **-4.20** | **<0.001** |
 
-![Significant items by factor](images/significant_items_by_factor.png)
+![Significant items by factor](significant_items_by_factor.png)
 
 At the individual item level, 37 of 45 items improved significantly (p < 0.05). All 9 items in "Leadership and managerial skills" and all 7 in "Personal & professional qualities" improved significantly; "Service management" had the most non-significant items (4 of 11), including managing clinical areas during emergencies/disasters and understanding payment issues affecting organizational finance.
 
 ### Program satisfaction
-![Post satisfaction](images/post_satisfaction.png)
+![Post satisfaction](post_satisfaction.png)
 
 - 96% of participants were completely, very or somewhat satisfied with the program (0% dissatisfied).
 - Across the 30-item satisfaction scale, the average score was **4.5 out of 5** ("strongly agree" on every item), with the highest-rated items being trainer expertise (mean 4.64) and improved self-awareness (mean 4.67).
